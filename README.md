@@ -61,6 +61,7 @@ cmp file1 file2
 ## OUTPUT
 file1 file2 differ: byte 1, line 1
 comm file1 file2
+
  ## OUTPUT
 	anil aggarwal
 	barun sengupta
@@ -71,6 +72,7 @@ chanchal singhvi
 sumit chakrobarty
  
 diff file1 file2
+
 ## OUTPUT
 1c1,2
 < chanchal singhvi
